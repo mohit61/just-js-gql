@@ -2,6 +2,7 @@
 
 ## Installation
 
+- Install [just](https://github.com/just-js/just)(note: just works in linux only)
 - Clone the repo
 - Build the app using `just build server.js --static --clean`
 - Execute the build `./server`
